@@ -1,2 +1,2 @@
-# Myblog
-My project for powercoders
+# myblog
+my project for powercoders
